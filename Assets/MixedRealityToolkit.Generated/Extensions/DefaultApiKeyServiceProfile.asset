@@ -14,9 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isCustomProfile: 1
   graphTodoListApi: https://graph.microsoft.com/v1.0/users/ltaholo@ltaholotestoutlook.onmicrosoft.com/drive/root:/checklists.zip:?select=content.downloadUrl
-  graphTodoListKey: Lw68Q~uQnbY6hn5t646JxfgxAkELI4Z2a~vyqcqx
-  graphTodoListClientId: fc474e3f-1a2c-4358-9ef3-e8df4ea90376
-  customVisionPredictionApi: https://eastus.api.cognitive.microsoft.com/customvision/v3.0/Prediction/98c163a6-9209-430b-bfbb-1f09032dd321/detect/iterations/Iteration3/image
-  customVisionPredictionKey: f6e09f215df84832816b1180870778ec
+  graphTodoListKey: H7H8Q~v6d5EY3R4npwAIOI_jTRcGHkeWfH9Q2bON
+  graphTodoListClientId: 359fbb04-c9d7-4c87-b81d-6f7369e67225
+  customVisionPredictionApi: https://harpobj-prediction.cognitiveservices.azure.com/customvision/v3.0/Prediction/658a002d-71d2-4bae-b812-cb39b9280f3d/detect/iterations/Iteration1/image
+  customVisionPredictionKey: e4ef65ff51c24a5091df617edb90dbfb
   facePredictionApi: https://harpface.cognitiveservices.azure.com/face/v1.0/
   facePredictionKey: 0821b718984a46b6b444718cdf6b2ac0
