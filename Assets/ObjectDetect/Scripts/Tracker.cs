@@ -101,7 +101,7 @@ namespace Microsoft.MixedReality.OpenXR.BasicSample
         private void OnEnable()
         {
             MRTKCam = GameObject.FindGameObjectWithTag("MainCamera").GetComponent<Camera>();
-            defaultBackground = background.texture;
+            //defaultBackground = background.texture;
             WebCamDevice[] devices = WebCamTexture.devices;
 
             if (devices.Length == 0)
