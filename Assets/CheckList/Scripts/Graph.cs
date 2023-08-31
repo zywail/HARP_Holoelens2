@@ -71,7 +71,7 @@ namespace Microsoft.MixedReality.OpenXR.BasicSample
             var grant_type = "client_credentials";
             var redirect_uri = "https://localhost";
             var scope = "https://graph.microsoft.com/.default";
-            var requestUrl = "https://login.microsoftonline.com/32355549-a4c1-4d91-9b75-d3b39523f335/oauth2/v2.0/token";
+            var requestUrl = "https://login.microsoftonline.com/0dc974ed-3f76-4f60-b245-02aa22f02dae/oauth2/v2.0/token";
 
             var httpClient = new HttpClient();
             var dict = new Dictionary<string, string>
